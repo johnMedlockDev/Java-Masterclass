@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         int myValue = 10000;
+        System.out.println(myValue);
 
         int myMinIntValue = Integer.MIN_VALUE;
         int myMaxIntValue = Integer.MAX_VALUE;
@@ -15,6 +16,7 @@ public class Main {
         System.out.println("Busted MIN Value = " + (myMinIntValue - 1));
 
         int myMaxIntTest = 2_147_483_647;
+        System.out.println(myMaxIntTest);
 
         byte myMaxByteValue = Byte.MAX_VALUE;
         byte myMinByteValue = Byte.MIN_VALUE;
@@ -27,6 +29,7 @@ public class Main {
         System.out.println("Short Maximum Value = " + myMaxShortValue);
 
         long myLongValue = 100L;
+        System.out.println(myLongValue);
 
         long myMaxLongValue = Long.MAX_VALUE;
         long myMinLongValue = Long.MIN_VALUE;
@@ -36,6 +39,9 @@ public class Main {
         long bigLongLiteralValue = 2_147_483_647_234L;
         short bigShortLiteralValue = 32767;
 
+        System.out.println(bigLongLiteralValue);
+        System.out.println(bigShortLiteralValue);
+
         // bytes occupy 8 bits
         // shorts occupy 16 bits
         // ints occupy 32 bits.
@@ -44,6 +50,10 @@ public class Main {
         int myTotal = (myMinIntValue / 2);
         byte myNewByteValue = (byte) (myMinByteValue / 2);
         short myNewShortValue = (short) (myMinShortValue / 2);
+
+        System.out.println(myTotal);
+        System.out.println(myNewByteValue);
+        System.out.println(myNewShortValue);
 
         byte byteChallenge = 56;
         short shortChallenge = 3000;
