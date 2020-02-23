@@ -46,5 +46,14 @@ public class Main {
             System.out.println("It is not an alien!");
         }
 
+        int topScore = 100;
+
+        // < > <= >= == != #comparison ops
+        // && || #and or
+
+        if (topScore != 100) {
+            System.out.println("You got the high score!");
+        }
+
     }
 }
