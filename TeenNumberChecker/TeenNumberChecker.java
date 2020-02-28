@@ -15,6 +15,5 @@ public class TeenNumberChecker {
         } else {
             return false;
         }
-
     }
 }
