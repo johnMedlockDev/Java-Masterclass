@@ -19,7 +19,6 @@ public class LeapYear {
                 }
             } else {
                 System.out.println("T");
-
                 return true;
             }
         } else {
