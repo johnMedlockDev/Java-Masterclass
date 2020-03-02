@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>",
+            "request": "launch",
+            "mainClass": "AreaCalculator.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BarkingDog<java_5d4fec1>",
+            "request": "launch",
+            "mainClass": "BarkingDog.BarkingDog",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(1)",
+            "request": "launch",
+            "mainClass": "ByteShortIntLong.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(2)",
+            "request": "launch",
+            "mainClass": "CharAndBoolean.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(3)",
+            "request": "launch",
+            "mainClass": "DayOfWeek.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(4)",
+            "request": "launch",
+            "mainClass": "FloatAndDouble.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hello<java_5d4fec1>",
+            "request": "launch",
+            "mainClass": "Hello.Hello",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(5)",
+            "request": "launch",
+            "mainClass": "IntEqualityPrinter.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(6)",
+            "request": "launch",
+            "mainClass": "KeywordAndCodeBlocks.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(7)",
+            "request": "launch",
+            "mainClass": "KeywordsAndExpressions.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LeapYear<java_5d4fec1>",
+            "request": "launch",
+            "mainClass": "LeapYear.LeapYear",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MegaBytesConverter<java_5d4fec1>",
+            "request": "launch",
+            "mainClass": "MegaBytesConverter.MegaBytesConverter",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(8)",
+            "request": "launch",
+            "mainClass": "MethodOverloading.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(9)",
+            "request": "launch",
+            "mainClass": "Methods.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(10)",
+            "request": "launch",
+            "mainClass": "MinutesToYearsDaysCalculator.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(11)",
+            "request": "launch",
+            "mainClass": "Operators.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(12)",
+            "request": "launch",
+            "mainClass": "PlayingCat.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(13)",
+            "request": "launch",
+            "mainClass": "SecondsAndMinutesChallenge.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(14)",
+            "request": "launch",
+            "mainClass": "StatementsWhiteSpaceAndIndenting.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(15)",
+            "request": "launch",
+            "mainClass": "Strings.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_5d4fec1>(16)",
+            "request": "launch",
+            "mainClass": "Switch.Main",
+            "projectName": "java_5d4fec1"
+        }
+    ]
+}
