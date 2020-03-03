@@ -1,8 +1,5 @@
 package NumberToWords;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -91,6 +88,7 @@ public class Main {
             number = number / 10;
             sum = (sum * 10) + lastDigit;
             count++;
+            System.out.println(count);
         }
         return sum;
     }
