@@ -8,6 +8,55 @@
             "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
+            "mainClass": "NumberToWords.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "PerfectNumber.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "FactorPrinter.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "GreatestCommonDivisor.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "LastDigitChecker.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "SharedDigit.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "EvenDigitSum.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
             "mainClass": "FirstLastDigitSum.Main",
             "projectName": "java_5d4fec1"
         },
