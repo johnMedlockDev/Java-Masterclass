@@ -8,6 +8,27 @@
             "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
+            "mainClass": "ReadingUserInputChallenge.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "ReadingUserInput.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "DiagonalStar.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
             "mainClass": "LargestPrime.Main",
             "projectName": "java_5d4fec1"
         },
