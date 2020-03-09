@@ -49,26 +49,6 @@ public class Main {
     }
 }
 
-// If all parameters are valid, the method needs to calculate the number of
-// buckets and return it.
-
-// Examples of input/output:
-
-// *getBucketCount(3.4, 1.5); → should return 3 since the area is 3.4 and a
-// single bucket can cover an area of 1.5
-
-// *getBucketCount(6.26, 2.2); → should return 3 since the wall area is 6.26 and
-// a single bucket can cover an area of 2.2.
-
-// *getBucketCount(3.26, 0.75); → should return 5 since the wall area is 3.26,
-// and a single bucket can cover an area of 0.75 .
-
-// Do your best to help Bob.
-
-// NOTE: Use the method Math.ceil to round the number of calculated buckets
-// (double) then convert it into an int before returning the value from the
-// methods.
-
 // ============================================================================
 
 // NOTE: All methods should be defined as public static like we have been doing
@@ -156,3 +136,23 @@ public class Main {
 
 // If one of the parameters area or areaPerBucket is less or equal to 0, the
 // method needs to return -1to indicate an invalid value.
+
+// If all parameters are valid, the method needs to calculate the number of
+// buckets and return it.
+
+// Examples of input/output:
+
+// *getBucketCount(3.4, 1.5); → should return 3 since the area is 3.4 and a
+// single bucket can cover an area of 1.5
+
+// *getBucketCount(6.26, 2.2); → should return 3 since the wall area is 6.26 and
+// a single bucket can cover an area of 2.2.
+
+// *getBucketCount(3.26, 0.75); → should return 5 since the wall area is 3.26,
+// and a single bucket can cover an area of 0.75 .
+
+// Do your best to help Bob.
+
+// NOTE: Use the method Math.ceil to round the number of calculated buckets
+// (double) then convert it into an int before returning the value from the
+// methods.
