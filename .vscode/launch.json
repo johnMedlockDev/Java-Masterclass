@@ -8,6 +8,20 @@
             "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
+            "mainClass": "InputCalculator.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "ScannerReview.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
             "mainClass": "MinAndMaxInputChallenge.Main",
             "projectName": "java_5d4fec1"
         },
