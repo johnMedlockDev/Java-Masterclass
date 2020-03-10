@@ -8,6 +8,13 @@
             "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
+            "mainClass": "WallArea.Main",
+            "projectName": "java_5d4fec1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
             "mainClass": "BankChallenge.Main",
             "projectName": "java_5d4fec1"
         },
